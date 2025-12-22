@@ -22,6 +22,11 @@ Extension of the project:
 After the character level , we will get into word level sequence and its predictions so that we can generate documents of words not just little segments of characters.
 Then we will get into images; image text networks such as Dolly, stable diffusion, etc.
 
+We first work in `build_makemore.ipynb` and then going for an alternative way of solving the problem in `build_makemore_nn.ipynb`
+
+
+Reference:
+1. https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2
 
 References for Dataset;
 1. https://www.kaggle.com/datasets/surajpratap/sixty-thousand-unique-indian-names-dataset
